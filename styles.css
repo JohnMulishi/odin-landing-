@@ -1,0 +1,30 @@
+.menu{
+    display:flex;
+    justify-items:Space-between;
+    align-items:center;
+    padding:10x;
+    Background-color:white;
+    gap:380px;
+    padding-left:20px;
+    padding-right:20px;
+    
+}
+ul li{
+    list-style-type:none;
+    margin-right:5px;
+    padding:0;
+    display:inline;
+}
+a{
+    text-decoration:none;
+    color:blue;
+    
+    
+}
+.nav{
+    float:right;
+
+    }
+    .logo{
+        padding-left:20px;
+    }
